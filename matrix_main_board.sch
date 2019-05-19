@@ -17515,9 +17515,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="P+8" library="supply1" deviceset="+5V" device=""/>
 <part name="IC1" library="jason_eagle6" deviceset="MKE02_44PIN" device=""/>
-<part name="XTL1" library="crystal" deviceset="CRYSTAL" device="HC49S"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="C0805"/>
-<part name="C11" library="rcl" deviceset="C-EU" device="C0805"/>
+<part name="XTL1" library="crystal" deviceset="CRYSTAL" device="HC49S" value="20m"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="C0805" value="18p"/>
+<part name="C11" library="rcl" deviceset="C-EU" device="C0805" value="18p"/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="C4" library="rcl" deviceset="C-EU" device="C0805"/>
@@ -17532,8 +17532,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0805"/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="R0805"/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="R0805"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0805" value="4k7"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="4k7"/>
 <part name="P+11" library="supply1" deviceset="+5V" device=""/>
 <part name="P+12" library="supply1" deviceset="+5V" device=""/>
 <part name="SCL" library="pinhead" deviceset="PINHD-1X1" device=""/>
