@@ -17780,8 +17780,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <text x="355.6" y="307.34" size="10.16" layer="97">SWITCH MATRIX</text>
 <text x="-33.02" y="25.4" size="10.16" layer="97">MCU</text>
 <text x="48.26" y="190.5" size="10.16" layer="97">EEPROM</text>
-<text x="114.3" y="27.94" size="10.16" layer="97">MATRIX SEQUENCER MAIN/DISPLAY BOARD</text>
-<text x="114.3" y="12.7" size="10.16" layer="97">Version 2 - 19 MAY 19 - J Hotchkiss / Sixty Four Pixels</text>
+<text x="114.3" y="27.94" size="10.16" layer="97">NOODLEBOX MAIN/DISPLAY BOARD</text>
+<text x="114.3" y="12.7" size="10.16" layer="97">Version 3 - 26 NOV 19 - J Hotchkiss / Sixty Four Pixels</text>
 </plain>
 <instances>
 <instance part="DISP1" gate="G$1" x="40.64" y="350.52" rot="R270"/>
