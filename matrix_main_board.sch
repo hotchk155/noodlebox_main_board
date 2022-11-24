@@ -18077,7 +18077,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <text x="-109.22" y="-12.7" size="10.16" layer="97">MCU</text>
 <text x="48.26" y="190.5" size="10.16" layer="97">EEPROM</text>
 <text x="114.3" y="27.94" size="10.16" layer="97">NOODLEBOX MAIN/DISPLAY BOARD</text>
-<text x="114.3" y="12.7" size="10.16" layer="97">Version 4 - 30 JUL 22 - J Hotchkiss / Sixty Four Pixels</text>
+<text x="114.3" y="12.7" size="10.16" layer="97">Version 4 - NOV 22 - J Hotchkiss / Sixty Four Pixels</text>
+<text x="114.3" y="-2.032" size="10.16" layer="97">CC-NC-BY-SA</text>
 </plain>
 <instances>
 <instance part="DISP1" gate="G$1" x="40.64" y="350.52" rot="R270"/>
